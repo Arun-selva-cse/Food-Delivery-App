@@ -63,5 +63,27 @@ To run this project, you will need to add the following environment variables to
 
 **Database:** MongoDB Atlas 
 
-![image alt]()
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153131.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153235.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153316.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153359.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153449.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153556.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153611.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153637.png)
+
+![image alt](https://github.com/Arun-selva-cse/Food-Delivery-App/blob/f2244a776556842283c7ba5dd68434bdb9d0f422/SB%20Screenshots/Screenshot%202024-11-16%20153656.png)
+
+## Demo Video
+
+https://drive.google.com/file/d/14dqRs9tMA-q1_jixVydNYZwT4HUerDKg/view?usp=sharing
+
+
 
